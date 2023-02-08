@@ -1,7 +1,7 @@
 {
   "name": "starter-express-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is the simplest possible nodejs api using express that responds to any request with: \r ```\r Yo!\r ```",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -10,13 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/cyclic-software/starter-express-api.git"
   },
-  "author": "",
+  "author": "Tong",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/cyclic-software/starter-express-api/issues"
   },
   "homepage": "https://github.com/cyclic-software/starter-express-api#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   }
 }
